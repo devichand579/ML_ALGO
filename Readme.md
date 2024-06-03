@@ -14,3 +14,6 @@ A sequnetial Neural Network with four Convolution layers followed by a Dense lay
 
 ## 3. Pruning Decision trees and Cross-Validation
 Performed Reduced Error pruning on the originally obtained decision tree trained on the given dataset and finally visualised the differences between original decision tree and pruned decision tree.
+
+## 4. Stock Market Simulation
+Created Stock market simulation with various classes for handling various tasks and entities of the system while also maintaining volatality of the created stock market instance with users being able to perform live transactions 
