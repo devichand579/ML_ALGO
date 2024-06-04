@@ -3,6 +3,7 @@ This repository contains code for implementations of three different tasks based
 1. Email Spam Classification
 2. Breast cancer cell Classification
 3. Pruning Decision trees and Cross-Validation
+4. Stock Market Simulation
 
 ## 1. Email Spam Classification
 Two different Algorithms were used to Classify Spam Emails.
